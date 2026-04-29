@@ -5,8 +5,9 @@
 
 This repository features a high-performance **Model Predictive Path Integral (MPPI)** controller designed for quadrupedal autonomous systems. By leveraging custom CUDA kernels, the controller achieves a **1,000x speedup** over CPU-based implementations, enabling the simulation of over **1 million trajectory rollouts** in under **15ms**.
 
+
 <p align="center">
-  <img src="mppi_final_demo.gif" width="700" alt="MPPI Quadruped Simulation HUD">
+  <img src="mppi_pyvista_demo.gif" width="600"alt="MPPI Quadruped Simulation HUD">
 </p>
 
 ## 🚀 Performance Summary
