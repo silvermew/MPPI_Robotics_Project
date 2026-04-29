@@ -1,5 +1,7 @@
 # MPPI Quadruped Controller (CUDA/C++)
 
+![MPPI Demo](mppi_pyvista_demo.mp4)
+
 This project implements a high-performance **Model Predictive Path Integral (MPPI)** controller for a quadrupedal robot using a **Single Rigid Body Model (SRBM)**. The physics engine and MPPI optimization loop are written entirely in C++ and CUDA, allowing for massive parallel trajectory rollouts.
 
 ## Key Features
