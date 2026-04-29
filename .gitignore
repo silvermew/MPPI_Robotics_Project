@@ -1,0 +1,32 @@
+# C++ / CMake build artifacts
+build/
+bin/
+lib/
+CMakeCache.txt
+CMakeFiles/
+Testing/
+*.dir/
+*.vcxproj
+*.sln
+*.filters
+*.user
+*.pdb
+
+# Python Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDEs and Editors
+.vscode/
+.idea/
+.vs/
+*.swp
+
+# Simulation Data and Media
+*.bin
+*.csv
+*.mp4
+*.gif
+*.log
