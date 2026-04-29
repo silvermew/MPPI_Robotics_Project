@@ -64,7 +64,7 @@ def main():
 
     # 6. Animation Setup
     plotter.camera_position = [(2.5, -8, 6), (2.5, 0, 0), (0, 0, 1)]# Look down at an angle
-    plotter.open_movie("mppi_pyvista_demo.mp4", framerate=30)
+    plotter.open_gif("mppi_pyvista_demo.gif")
 
     print("Rendering frames...")
     

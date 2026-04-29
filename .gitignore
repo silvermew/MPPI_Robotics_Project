@@ -28,6 +28,6 @@ __pycache__/
 *.bin
 *.csv
 *.mp4
-!mppi_pyvista_demo.mp4
 *.gif
+!mppi_pyvista_demo.gif
 *.log
